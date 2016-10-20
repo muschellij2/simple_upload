@@ -8,6 +8,5 @@ shinyUI(pageWithSidebar(
     htmlOutput("curr_files"),
     h3("Files uploaded, all hyperlinked"),
     htmlOutput("out_info")
-    
   )
 ))
